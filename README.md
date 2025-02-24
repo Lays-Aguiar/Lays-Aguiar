@@ -4,8 +4,8 @@
 
 ### 💻 Sobre mim
 
-Sou Formada em Análise e Desenvolvimento de Sistemas, trabalho na área de desenvolvimento web como FrontEnd ultilizando ferramentas como:
-Reactjs, Next.js, JavaScript , Bootstrap, TailwindCss.
+Sou Formada em Análise e Desenvolvimento de Sistemas, trabalho na área de desenvolvimento web como FullStack ultilizando ferramentas como:
+ Node.js, Nest.js, Reactjs, Next.js, JavaScript
 
 ### Tecnologias usadas:
 
